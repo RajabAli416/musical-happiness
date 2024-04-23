@@ -1,0 +1,11 @@
+id,describe_your_family,family_name,user_id,expected_years_of_experience,languages_you_speak,expected_years_of_experience,children_you_have,what_neighborhood_you_live_in,what_are_your_interest_creative
+1,Mom and Dad,Smith,Spanish,1,3,Urban,Art
+2,Mom and Dad,Doe,French,4,1,Urban,Music
+3,Single Parent,Smith,German,5,1,Urban,Science
+4,Single Dad,Brown,Spanish,5,4,Suburban,Science
+5,Mom and Dad,Taylor,English,1,1,Rural,Science
+6,Dads,Brown,French,4,1,Urban,Cooking
+7,Mom and Dad,Smith,French,1,1,Rural,Sports
+8,Single Dad,Doe,Spanish,2,4,Suburban,Music
+9,Mom and Dad,Smith,French,3,1,Suburban,Science
+10,Single Dad,Brown,English,5,2,Urban,Science
